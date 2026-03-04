@@ -1,0 +1,92 @@
+[
+  {
+    "id": "P001",
+    "name": "Nordik Ahşap Yemek Masası",
+    "category": "Masa",
+    "price": 7499.99,
+    "color": "Açık Meşe",
+    "material": "Masif Ahşap",
+    "description_tr": "Altı kişilik Nordik Ahşap Yemek Masası, ince profil ayakları ve mat yüzeyiyle modern yemek alanları için tasarlandı. Masanın tablasında geri dönüştürülmüş ahşap paneller kullanılır; bu sayede her parça kendine özgü doğal dokuya sahiptir. Yüzey, dayanıklılığı artırmak için su bazlı, düşük VOC içeren bir vernikle korunmuştur."
+  },
+  {
+    "id": "P002",
+    "name": "Luna Köşe Koltuk",
+    "category": "Koltuk",
+    "price": 12999.5,
+    "color": "Koyu Gri",
+    "material": "Kumaş",
+    "description_tr": "Luna Köşe Koltuk, yumuşak minderleri ve geniş oturum alanıyla hem aileler hem de misafirler için ideal bir alan sunar. Nötr rengi farklı dekor stilleriyle kolayca uyum sağlar. Dayanıklı kumaş döşeme, günlük kullanıma uygun olup kolay temizlenebilir yapıdadır."
+  },
+  {
+    "id": "P003",
+    "name": "Ege Raflı TV Ünitesi",
+    "category": "TV Ünitesi",
+    "price": 5599.0,
+    "color": "Ceviz",
+    "material": "Ahşap + Metal",
+    "description_tr": "Ege Raflı TV Ünitesi, açık raf düzeni sayesinde oyun konsolları, kitaplar ve dekoratif objeler için bolca alan sunar. Metal ayaklar, ünitenin altını kolayca temizlemenize olanak tanır. Kablo düzenleyici açıklıklar sayesinde televizyon ve medya cihazlarının kabloları görünür kalmaz."
+  },
+  {
+    "id": "P004",
+    "name": "SoftLine Berjer",
+    "category": "Berjer",
+    "price": 4299.9,
+    "color": "Taş",
+    "material": "Kumaş",
+    "description_tr": "SoftLine Berjer, yüksek arkalığı ve yan destekleriyle uzun okuma seansları için konforlu bir oturum sunar. Kol dayanaklarının geniş formu, fincan ve küçük bir kitap bırakmak için ekstra alan yaratır. Nefes alabilen döşeme kumaşı, sıcak havalarda bile rahat kullanım sağlar."
+  },
+  {
+    "id": "P005",
+    "name": "Gaia Doğal Ahşap Sehpa Seti",
+    "category": "Sehpa",
+    "price": 3499.0,
+    "color": "Doğal",
+    "material": "Masif Çam",
+    "description_tr": "Gaia Sehpa Seti, üç farklı yükseklikte yuvarlak sehpadan oluşur ve dilediğiniz kombinasyonu yaratmanıza izin verir. Her sehpanın tablası, FSC sertifikalı ormanlardan elde edilen masif çamdan üretilmiştir ve yüzeyinde organik boya ile renklendirilmiş doğal damarlar korunmuştur. Pürüzsüz dokusuna rağmen ahşabın sıcak görünümü oturma odasına davetkâr bir hava katar."
+  },
+  {
+    "id": "P006",
+    "name": "Metro Metal Kitaplık",
+    "category": "Kitaplık",
+    "price": 2999.5,
+    "color": "Siyah",
+    "material": "Metal",
+    "description_tr": "Metro Metal Kitaplık, endüstriyel tarzı sevenler için kompakt ve fonksiyonel bir çözümdür. Beş raflı yapısı sayesinde kitaplardan bitkilere kadar pek çok objeyi sergileyebilirsiniz. Dar alanlar için uygun genişliğiyle küçük salon veya çalışma odalarında rahatlıkla kullanılabilir."
+  },
+  {
+    "id": "P007",
+    "name": "Seren Yatak Başlığı ve Baza",
+    "category": "Yatak",
+    "price": 10499.0,
+    "color": "Bej",
+    "material": "Kumaş + Ahşap",
+    "description_tr": "Seren Yatak Başlığı ve Baza seti, yumuşak kapitoneli yapısıyla yatak odasına otel konforu hissi taşır. Başlık kısmındaki dolgulu panel, yatakta kitap okurken veya film izlerken sırtınızı konforlu biçimde destekler. Geniş depolama alanına sahip baza içerisine mevsimlik tekstil ürünlerini kolayca yerleştirebilirsiniz."
+  },
+  {
+    "id": "P008",
+    "name": "Breeze Kumaşlı Üçlü Koltuk",
+    "category": "Koltuk",
+    "price": 8999.0,
+    "color": "Açık Yeşil",
+    "material": "Kumaş",
+    "description_tr": "Breeze Kumaşlı Üçlü Koltuk, yumuşak hatlara sahip modern tasarımıyla salonun merkezinde sakin bir atmosfer oluşturur. Döşemesinde kullanılan sürdürülebilir kumaş, kısmen geri dönüştürülmüş liflerden üretilmiş olup uzun ömürlü kullanım için test edilmiştir. Minder kılıfları çıkarılabilir ve düşük ısıda yıkanabilir."
+  },
+  {
+    "id": "P009",
+    "name": "Terra Konsol",
+    "category": "Konsol",
+    "price": 6499.99,
+    "color": "Kestane",
+    "material": "MDF + Kaplama",
+    "description_tr": "Terra Konsol, ince metal ayaklar ve ahşap görünümlü ön yüzeyleriyle yemek odalarına sıcak bir karakter katar. Üç kapaklı geniş iç hacmi, tabak takımları ve masa örtüleri için düzenli bir saklama alanı sunar. Yüzeyinde kullanılan kaplama, günlük darbelere ve çizilmelere karşı dayanıklıdır."
+  },
+  {
+    "id": "P010",
+    "name": "EcoSleep Ortopedik Yatak",
+    "category": "Yatak",
+    "price": 11999.0,
+    "color": "Beyaz",
+    "material": "Lateks + Yay",
+    "description_tr": "EcoSleep Ortopedik Yatak, vücut basıncını dengeli şekilde dağıtan çok katmanlı yapısıyla ergonomik bir uyku deneyimi sunar. Üst katmandaki organik pamuk örme kılıf, cilde temas eden yüzeyde kimyasal işlem görmemiş lifler kullanır. Yatağın dolgu katmanlarında, doğal lateks ve geri dönüştürülmüş elyaf karışımı kullanılarak hem hava dolaşımı artırılmış hem de üretim sürecindeki çevresel etki azaltılmıştır."
+  }
+]
