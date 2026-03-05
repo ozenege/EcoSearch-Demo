@@ -334,7 +334,7 @@ def main():
         "**Try example searches:**  \n"
         "- çevre dostu  \n"
         "- sürdürülebilir  \n"
-        "- organik"
+        "- organik  \n"
         "- eco friendly products  \n"
         "- sustainable furniture  \n"
     )
